@@ -1,0 +1,35 @@
+body{
+    background: url("ZqshbG4.jpg");
+}
+
+.box{
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    margin-top: 200px;
+}
+
+.header{
+    display:flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 50px;
+    padding-bottom: 40px;
+}
+a{
+    text-align: center;
+    padding-bottom: 10px;
+}
+.data{
+    display : grid;
+    margin-top: 100px;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+}
+a{
+    font-size: 20px;
+    text-align: right;
+    margin-bottom: 5px;
+}
